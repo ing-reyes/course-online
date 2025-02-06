@@ -1,3 +1,8 @@
+<meta property="og:title" content="course-online" />
+<meta property="og:description" content="Course Online" />
+<meta property="og:image" content="https://www.kopen.es/wp-content/uploads/2022/03/104_17_03_ANALISIS-DE-REQUISITOS.jpg" />
+<meta property="og:url" content="https://github.com/ing-reyes/course-online" />
+
 # 📌 Requerimientos del Sistema de Cursos Online
 
 ## 1️⃣ Requerimientos Funcionales ⚙️
